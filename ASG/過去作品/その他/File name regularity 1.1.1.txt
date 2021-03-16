@@ -1,0 +1,23 @@
+ディシジョン	#国家, システムごとにファイルを分ける
+	_ssw_システム英名.txt	例:_ssw_Generic_Decisions.txt
+	ssw_国家タグ.txt		例:ssw_JAP.txt
+	
+国民精神	#国家, システムごとにファイルを分ける
+	_ssw_システム英名.txt	例:_ssw_Social_System.txt
+	ssw_国家タグ.txt		例:ssw_JAP.txt
+	
+国家方針	#国家, システムごとにファイルを分ける
+	ssw_国家タグ.txt	例:ssw_JAP.txt, ssw_JAP_industry
+		国家方針樹ID	例:ssw_JAP_focus, ssw_JAP_industry_focus
+	
+イベント	#国家, システムごとにファイルを分ける
+	_ssw_システム英名.txt	例:_ssw_News_Events.txt
+	ssw_国家タグ.txt		例:ssw_JAP.txt
+	
+ローカライゼーション	#国家, システムごとにファイルを分ける
+	_ssw_システム英名_l_english.yml	例:_ssw_parties_l_english.yml
+	ssw_国家タグ_l_english.yml		例:ssw_JAP_l_english.yml
+
+グラフィックの場所
+	国家方針アイコン	interface/goals/国家タグ/
+	国民精神アイコン	interface/ideas/国家タグ/

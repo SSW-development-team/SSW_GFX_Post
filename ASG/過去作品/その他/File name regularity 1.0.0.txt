@@ -1,0 +1,14 @@
+common/coutries/Japan.txt					(英語で国家名を書く)
+common/decisions/ssw_JAP.txt				(ssw_国家タグで書く)
+common/ideas/ssw_JAP.txt					(ssw_国家タグで書く)
+common/national_focus/ssw_japan.txt			(ssw_NFIDで書く)
+events/ssw_JAP.txt							(ssw_国家タグで書く)
+history/coutries/JAP - Japan.txt			(国家タグ - 国家名で書く)
+history/states/531-Osaka.txt				(州ID-州の英名で書く)
+history/units/JAP_1950.txt					(国家タグ_1950で書く)
+interface/ssw_JAP_goal.gfx					(ssw_国家タグ_詳細.gfx)
+localistation/ssw_JAP_focus_l_english.yml	(ssw_国家タグ_詳細.yml)
+
+グラフィック関係
+NFアイコン	gfx/interface/goals/国家タグ/focus_国家方針のID.dds
+アイディア	gfx/interface/ideas/国家タグ/ideas_アイディアID.dds
