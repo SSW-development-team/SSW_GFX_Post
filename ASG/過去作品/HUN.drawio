@@ -1,0 +1,621 @@
+<mxfile>
+    <diagram id="7WXiIC6he57G1Fuo0SQj" name="初期政治ツリー">
+        <mxGraphModel dx="948" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="JQzf1noPHKYlmpawf5Gh-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="JQzf1noPHKYlmpawf5Gh-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="JQzf1noPHKYlmpawf5Gh-7">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="260"/>
+                            <mxPoint x="100" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="JQzf1noPHKYlmpawf5Gh-9">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="260"/>
+                            <mxPoint x="380" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="JQzf1noPHKYlmpawf5Gh-11">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="260"/>
+                            <mxPoint x="340" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="JQzf1noPHKYlmpawf5Gh-13">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="260"/>
+                            <mxPoint x="140" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="JQzf1noPHKYlmpawf5Gh-16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="JQzf1noPHKYlmpawf5Gh-15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="我らに王を" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="200" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JQzf1noPHKYlmpawf5Gh-3" target="vPA_Jw2EjaE4bE_p5380-41">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="260" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-3" value="&lt;font style=&quot;font-size: 7px&quot;&gt;英雄こそ&lt;br&gt;王に&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="280" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JQzf1noPHKYlmpawf5Gh-5" target="vPA_Jw2EjaE4bE_p5380-40">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="220" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-5" value="&lt;font style=&quot;font-size: 7px&quot;&gt;過去の栄光を再び&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="280" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="JQzf1noPHKYlmpawf5Gh-7" target="vPA_Jw2EjaE4bE_p5380-37">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="100" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-7" value="&lt;font style=&quot;font-size: 7px&quot;&gt;西方の王国より&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="280" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="JQzf1noPHKYlmpawf5Gh-9" target="vPA_Jw2EjaE4bE_p5380-44">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="380" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-9" value="&lt;font style=&quot;font-size: 7px&quot;&gt;東方の皇国より&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="280" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JQzf1noPHKYlmpawf5Gh-11" target="vPA_Jw2EjaE4bE_p5380-43">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="340" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-11" value="&lt;font style=&quot;font-size: 7px&quot;&gt;南欧の&lt;br&gt;結束主義王&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="280" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="JQzf1noPHKYlmpawf5Gh-13" target="vPA_Jw2EjaE4bE_p5380-38">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="140" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-13" value="&lt;font style=&quot;font-size: 7px&quot;&gt;北欧の&lt;br&gt;民主主義王&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="280" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JQzf1noPHKYlmpawf5Gh-15" target="vPA_Jw2EjaE4bE_p5380-39">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="180" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-15" value="&lt;font style=&quot;font-size: 7px&quot;&gt;ギリシャ&lt;br&gt;の王家&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="280" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JQzf1noPHKYlmpawf5Gh-16" target="vPA_Jw2EjaE4bE_p5380-42">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="300" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JQzf1noPHKYlmpawf5Gh-16" value="&lt;font style=&quot;font-size: 7px&quot;&gt;ブルガリアの王家&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="280" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vPA_Jw2EjaE4bE_p5380-4" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.018;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="vPA_Jw2EjaE4bE_p5380-4" target="vPA_Jw2EjaE4bE_p5380-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-4" value="栄光ある勝利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="120" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="vPA_Jw2EjaE4bE_p5380-6" target="vPA_Jw2EjaE4bE_p5380-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-6" value="屈辱的な敗北" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="120" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="vPA_Jw2EjaE4bE_p5380-8" target="vPA_Jw2EjaE4bE_p5380-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="vPA_Jw2EjaE4bE_p5380-8" target="vPA_Jw2EjaE4bE_p5380-14">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="640" y="260"/>
+                            <mxPoint x="520" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="vPA_Jw2EjaE4bE_p5380-8" target="vPA_Jw2EjaE4bE_p5380-17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="vPA_Jw2EjaE4bE_p5380-8" target="vPA_Jw2EjaE4bE_p5380-18">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="640" y="260"/>
+                            <mxPoint x="760" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-8" value="臨時体制&lt;br&gt;の確立" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="200" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="vPA_Jw2EjaE4bE_p5380-10" target="vPA_Jw2EjaE4bE_p5380-49">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-10" value="&lt;font style=&quot;font-size: 7px&quot;&gt;サンディカリズム革命&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="280" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="vPA_Jw2EjaE4bE_p5380-14" target="vPA_Jw2EjaE4bE_p5380-46">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-14" value="&lt;font style=&quot;font-size: 7px&quot;&gt;権力の粉砕&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="280" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="vPA_Jw2EjaE4bE_p5380-17" target="vPA_Jw2EjaE4bE_p5380-51">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-17" value="&lt;font style=&quot;font-size: 7px&quot;&gt;民主主義の復古&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="280" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="vPA_Jw2EjaE4bE_p5380-18" target="vPA_Jw2EjaE4bE_p5380-53">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-18" value="&lt;font style=&quot;font-size: 7px&quot;&gt;救国政府&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="280" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="vPA_Jw2EjaE4bE_p5380-21" target="vPA_Jw2EjaE4bE_p5380-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="440" y="100"/>
+                            <mxPoint x="640" y="100"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="vPA_Jw2EjaE4bE_p5380-21" target="vPA_Jw2EjaE4bE_p5380-4">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="440" y="100"/>
+                            <mxPoint x="240" y="100"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-21" value="ドナウ戦争" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="40" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-37" value="&lt;font style=&quot;font-size: 5px&quot;&gt;イギリス&lt;br&gt;王室ルートNF&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="360" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-38" value="&lt;font style=&quot;font-size: 5px&quot;&gt;スウェーデン&lt;/font&gt;&lt;br style=&quot;font-size: 5px&quot;&gt;&lt;span style=&quot;font-size: 5px&quot;&gt;王室ルートNF&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="360" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-39" value="&lt;font style=&quot;font-size: 5px&quot;&gt;ギリシャ&lt;/font&gt;&lt;br style=&quot;font-size: 5px&quot;&gt;&lt;span style=&quot;font-size: 5px&quot;&gt;王室ルートNF&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="360" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-40" value="&lt;font style=&quot;font-size: 5px&quot;&gt;ハプスブルク&lt;/font&gt;&lt;br style=&quot;font-size: 5px&quot;&gt;&lt;span style=&quot;font-size: 5px&quot;&gt;ルートNF&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="360" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-41" value="&lt;font style=&quot;font-size: 5px&quot;&gt;ホルティ&lt;br&gt;ルートNF&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="360" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-42" value="&lt;font style=&quot;font-size: 5px&quot;&gt;ブルガリア&lt;/font&gt;&lt;br style=&quot;font-size: 5px&quot;&gt;&lt;span style=&quot;font-size: 5px&quot;&gt;王室ルートNF&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="360" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-43" value="&lt;font style=&quot;font-size: 5px&quot;&gt;イタリア&lt;br&gt;王室ルートNF&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="360" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-44" value="&lt;span style=&quot;font-size: 5px&quot;&gt;日本皇室&lt;br&gt;ルートNF&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="360" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-46" value="&lt;span style=&quot;font-size: 5px&quot;&gt;無政府主義&lt;br&gt;ルートNF&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="360" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-49" value="&lt;span style=&quot;font-size: 4px&quot;&gt;サンディカリズム&lt;br&gt;ルートNF&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="580" y="360" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-51" value="&lt;span style=&quot;font-size: 5px&quot;&gt;社会自由主義&lt;br&gt;ルートNF&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="360" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vPA_Jw2EjaE4bE_p5380-53" value="&lt;span style=&quot;font-size: 5px&quot;&gt;救国政府&lt;br&gt;ルートNF&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="740" y="360" width="40" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="VsmLZz0q_9G6n_VkO0KV" name="ページ2">
+        <mxGraphModel dx="1145" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000000" pageHeight="1000000" math="0" shadow="0">
+            <root>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-0"/>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-1" parent="XL8Ke2UXIsb6MuDo_oon-0"/>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-1" source="XL8Ke2UXIsb6MuDo_oon-71" target="XL8Ke2UXIsb6MuDo_oon-74">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-1" source="XL8Ke2UXIsb6MuDo_oon-71" target="XL8Ke2UXIsb6MuDo_oon-88">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-1" source="XL8Ke2UXIsb6MuDo_oon-71" target="XL8Ke2UXIsb6MuDo_oon-102">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-71" value="国王選定(1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-1">
+                    <mxGeometry x="1520" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-73" value="" style="group" vertex="1" connectable="0" parent="XL8Ke2UXIsb6MuDo_oon-1">
+                    <mxGeometry x="1400" y="160" width="360" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-74" value="ハプスブルク家へ&lt;br&gt;打診" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-73">
+                    <mxGeometry x="120" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-75" value="&lt;span&gt;ハプスブルク家&lt;br&gt;(候補から選ばれる)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-73">
+                    <mxGeometry x="180" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-73" source="XL8Ke2UXIsb6MuDo_oon-74" target="XL8Ke2UXIsb6MuDo_oon-75">
+                    <mxGeometry x="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-77" value="ハプスブルク家が&lt;br&gt;辞退" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-73">
+                    <mxGeometry x="60" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-73" source="XL8Ke2UXIsb6MuDo_oon-74" target="XL8Ke2UXIsb6MuDo_oon-77">
+                    <mxGeometry x="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-79" value="ハプスブルク朝&lt;br&gt;ルート" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-73">
+                    <mxGeometry x="120" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-73" source="XL8Ke2UXIsb6MuDo_oon-75" target="XL8Ke2UXIsb6MuDo_oon-79">
+                    <mxGeometry x="60" as="geometry">
+                        <mxPoint x="240" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-81" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-73">
+                    <mxGeometry y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-73" source="XL8Ke2UXIsb6MuDo_oon-77" target="XL8Ke2UXIsb6MuDo_oon-81">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-83" value="国民が反発" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-73">
+                    <mxGeometry x="240" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-73" source="XL8Ke2UXIsb6MuDo_oon-75" target="XL8Ke2UXIsb6MuDo_oon-83">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-85" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-73">
+                    <mxGeometry x="240" y="240" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-73" source="XL8Ke2UXIsb6MuDo_oon-83" target="XL8Ke2UXIsb6MuDo_oon-85">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="300" y="240"/>
+                            <mxPoint x="300" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-87" value="" style="group" vertex="1" connectable="0" parent="XL8Ke2UXIsb6MuDo_oon-1">
+                    <mxGeometry x="1060" y="160" width="360" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-88" value="イギリスへ&lt;br&gt;打診" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-87">
+                    <mxGeometry x="110" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-89" value="ウィンザー&lt;span&gt;家&lt;br&gt;(候補から選ばれる)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-87">
+                    <mxGeometry x="160" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-87" source="XL8Ke2UXIsb6MuDo_oon-88" target="XL8Ke2UXIsb6MuDo_oon-89">
+                    <mxGeometry x="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-91" value="イギリスが辞退" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-87">
+                    <mxGeometry x="40" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-87" source="XL8Ke2UXIsb6MuDo_oon-88" target="XL8Ke2UXIsb6MuDo_oon-91">
+                    <mxGeometry x="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-93" value="ウィンザー朝&lt;br&gt;ルート" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-87">
+                    <mxGeometry x="100" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-87" source="XL8Ke2UXIsb6MuDo_oon-89" target="XL8Ke2UXIsb6MuDo_oon-93">
+                    <mxGeometry x="40" as="geometry">
+                        <mxPoint x="220" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-95" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-87">
+                    <mxGeometry x="-20" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-87" source="XL8Ke2UXIsb6MuDo_oon-91" target="XL8Ke2UXIsb6MuDo_oon-95">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-97" value="国民が反発" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-87">
+                    <mxGeometry x="220" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-87" source="XL8Ke2UXIsb6MuDo_oon-89" target="XL8Ke2UXIsb6MuDo_oon-97">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-99" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-87">
+                    <mxGeometry x="220" y="240" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-87" source="XL8Ke2UXIsb6MuDo_oon-97" target="XL8Ke2UXIsb6MuDo_oon-99">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="240"/>
+                            <mxPoint x="280" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-101" value="" style="group" vertex="1" connectable="0" parent="XL8Ke2UXIsb6MuDo_oon-1">
+                    <mxGeometry x="1760" y="160" width="360" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-102" value="イタリアへ&lt;br&gt;打診" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-101">
+                    <mxGeometry x="120" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-103" value="&lt;span&gt;サヴォイア家&lt;br&gt;(候補から選ばれる)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-101">
+                    <mxGeometry x="180" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-101" source="XL8Ke2UXIsb6MuDo_oon-102" target="XL8Ke2UXIsb6MuDo_oon-103">
+                    <mxGeometry x="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-105" value="イタリアが&lt;br&gt;辞退" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-101">
+                    <mxGeometry x="60" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-101" source="XL8Ke2UXIsb6MuDo_oon-102" target="XL8Ke2UXIsb6MuDo_oon-105">
+                    <mxGeometry x="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-107" value="サヴォイア朝&lt;br&gt;ルート" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-101">
+                    <mxGeometry x="120" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-101" source="XL8Ke2UXIsb6MuDo_oon-103" target="XL8Ke2UXIsb6MuDo_oon-107">
+                    <mxGeometry x="60" as="geometry">
+                        <mxPoint x="240" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-109" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-101">
+                    <mxGeometry y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-101" source="XL8Ke2UXIsb6MuDo_oon-105" target="XL8Ke2UXIsb6MuDo_oon-109">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-111" value="国民が反発" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-101">
+                    <mxGeometry x="240" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-101" source="XL8Ke2UXIsb6MuDo_oon-103" target="XL8Ke2UXIsb6MuDo_oon-111">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-113" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-101">
+                    <mxGeometry x="240" y="240" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XL8Ke2UXIsb6MuDo_oon-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-101" source="XL8Ke2UXIsb6MuDo_oon-111" target="XL8Ke2UXIsb6MuDo_oon-113">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="300" y="240"/>
+                            <mxPoint x="300" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-1" source="dFluYP8iIp5nhPdR2Ro7-3" target="dFluYP8iIp5nhPdR2Ro7-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-1" source="dFluYP8iIp5nhPdR2Ro7-3" target="dFluYP8iIp5nhPdR2Ro7-19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-1" source="dFluYP8iIp5nhPdR2Ro7-3" target="dFluYP8iIp5nhPdR2Ro7-33">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-3" value="国王選定(2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-1">
+                    <mxGeometry x="1520" y="480" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-4" value="" style="group" vertex="1" connectable="0" parent="XL8Ke2UXIsb6MuDo_oon-1">
+                    <mxGeometry x="1400" y="560" width="360" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-5" value="スウェーデンへ&lt;br&gt;打診" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-4">
+                    <mxGeometry x="120" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-6" value="&lt;span&gt;ベルナドッテ家&lt;br&gt;(候補から選ばれる)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-4">
+                    <mxGeometry x="180" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-4" source="dFluYP8iIp5nhPdR2Ro7-5" target="dFluYP8iIp5nhPdR2Ro7-6">
+                    <mxGeometry x="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-8" value="スウェーデンが&lt;br&gt;辞退" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-4">
+                    <mxGeometry x="60" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-4" source="dFluYP8iIp5nhPdR2Ro7-5" target="dFluYP8iIp5nhPdR2Ro7-8">
+                    <mxGeometry x="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-10" value="ベルナドッテ朝&lt;br&gt;ルート" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-4">
+                    <mxGeometry x="120" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-4" source="dFluYP8iIp5nhPdR2Ro7-6" target="dFluYP8iIp5nhPdR2Ro7-10">
+                    <mxGeometry x="60" as="geometry">
+                        <mxPoint x="240" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-12" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-4">
+                    <mxGeometry y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-4" source="dFluYP8iIp5nhPdR2Ro7-8" target="dFluYP8iIp5nhPdR2Ro7-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-14" value="国民が反発" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-4">
+                    <mxGeometry x="240" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-4" source="dFluYP8iIp5nhPdR2Ro7-6" target="dFluYP8iIp5nhPdR2Ro7-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-16" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-4">
+                    <mxGeometry x="240" y="240" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-4" source="dFluYP8iIp5nhPdR2Ro7-14" target="dFluYP8iIp5nhPdR2Ro7-16">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="300" y="240"/>
+                            <mxPoint x="300" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-18" value="" style="group" vertex="1" connectable="0" parent="XL8Ke2UXIsb6MuDo_oon-1">
+                    <mxGeometry x="1060" y="560" width="360" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-19" value="ギリシャへ&lt;br&gt;打診" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-18">
+                    <mxGeometry x="110" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-20" value="グリクシンブルグ&lt;span&gt;家&lt;br&gt;(候補から選ばれる)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-18">
+                    <mxGeometry x="160" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-18" source="dFluYP8iIp5nhPdR2Ro7-19" target="dFluYP8iIp5nhPdR2Ro7-20">
+                    <mxGeometry x="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-22" value="ギリシャが辞退" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-18">
+                    <mxGeometry x="40" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-18" source="dFluYP8iIp5nhPdR2Ro7-19" target="dFluYP8iIp5nhPdR2Ro7-22">
+                    <mxGeometry x="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-24" value="グリクシンブルグ朝&lt;br&gt;ルート" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-18">
+                    <mxGeometry x="100" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-18" source="dFluYP8iIp5nhPdR2Ro7-20" target="dFluYP8iIp5nhPdR2Ro7-24">
+                    <mxGeometry x="40" as="geometry">
+                        <mxPoint x="220" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-26" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-18">
+                    <mxGeometry x="-20" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-18" source="dFluYP8iIp5nhPdR2Ro7-22" target="dFluYP8iIp5nhPdR2Ro7-26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-28" value="国民が反発" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-18">
+                    <mxGeometry x="220" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-18" source="dFluYP8iIp5nhPdR2Ro7-20" target="dFluYP8iIp5nhPdR2Ro7-28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-30" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-18">
+                    <mxGeometry x="220" y="240" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-18" source="dFluYP8iIp5nhPdR2Ro7-28" target="dFluYP8iIp5nhPdR2Ro7-30">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="240"/>
+                            <mxPoint x="280" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-32" value="" style="group" vertex="1" connectable="0" parent="XL8Ke2UXIsb6MuDo_oon-1">
+                    <mxGeometry x="1760" y="560" width="360" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-33" value="ブルガリアへ&lt;br&gt;打診" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-32">
+                    <mxGeometry x="120" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-34" value="&lt;span&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;サクスコブルクゴツキ家&lt;/font&gt;&lt;br&gt;(候補から選ばれる)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-32">
+                    <mxGeometry x="180" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-32" source="dFluYP8iIp5nhPdR2Ro7-33" target="dFluYP8iIp5nhPdR2Ro7-34">
+                    <mxGeometry x="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-36" value="ブルガリアが&lt;br&gt;辞退" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-32">
+                    <mxGeometry x="60" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-32" source="dFluYP8iIp5nhPdR2Ro7-33" target="dFluYP8iIp5nhPdR2Ro7-36">
+                    <mxGeometry x="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-38" value="&lt;font style=&quot;font-size: 10px&quot;&gt;サクスコブルクゴツキ朝&lt;/font&gt;&lt;br&gt;ルート" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-32">
+                    <mxGeometry x="120" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-32" source="dFluYP8iIp5nhPdR2Ro7-34" target="dFluYP8iIp5nhPdR2Ro7-38">
+                    <mxGeometry x="60" as="geometry">
+                        <mxPoint x="240" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-40" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-32">
+                    <mxGeometry y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-32" source="dFluYP8iIp5nhPdR2Ro7-36" target="dFluYP8iIp5nhPdR2Ro7-40">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-42" value="国民が反発" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-32">
+                    <mxGeometry x="240" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-32" source="dFluYP8iIp5nhPdR2Ro7-34" target="dFluYP8iIp5nhPdR2Ro7-42">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-44" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dFluYP8iIp5nhPdR2Ro7-32">
+                    <mxGeometry x="240" y="240" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dFluYP8iIp5nhPdR2Ro7-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dFluYP8iIp5nhPdR2Ro7-32" source="dFluYP8iIp5nhPdR2Ro7-42" target="dFluYP8iIp5nhPdR2Ro7-44">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="300" y="240"/>
+                            <mxPoint x="300" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="XL8Ke2UXIsb6MuDo_oon-1" source="IQPC-sSAH7IOpoYLebHF-0" target="IQPC-sSAH7IOpoYLebHF-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-0" value="国王選定(3)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XL8Ke2UXIsb6MuDo_oon-1">
+                    <mxGeometry x="1521" y="880" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-1" value="" style="group" vertex="1" connectable="0" parent="XL8Ke2UXIsb6MuDo_oon-1">
+                    <mxGeometry x="1401" y="960" width="360" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-2" value="日本へ&lt;br&gt;打診" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IQPC-sSAH7IOpoYLebHF-1">
+                    <mxGeometry x="120" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-3" value="&lt;span&gt;日本皇室&lt;br&gt;(候補から選ばれる)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IQPC-sSAH7IOpoYLebHF-1">
+                    <mxGeometry x="180" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IQPC-sSAH7IOpoYLebHF-1" source="IQPC-sSAH7IOpoYLebHF-2" target="IQPC-sSAH7IOpoYLebHF-3">
+                    <mxGeometry x="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-5" value="日本が&lt;br&gt;辞退" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IQPC-sSAH7IOpoYLebHF-1">
+                    <mxGeometry x="60" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IQPC-sSAH7IOpoYLebHF-1" source="IQPC-sSAH7IOpoYLebHF-2" target="IQPC-sSAH7IOpoYLebHF-5">
+                    <mxGeometry x="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-7" value="日本皇室&lt;br&gt;ルート" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IQPC-sSAH7IOpoYLebHF-1">
+                    <mxGeometry x="120" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IQPC-sSAH7IOpoYLebHF-1" source="IQPC-sSAH7IOpoYLebHF-3" target="IQPC-sSAH7IOpoYLebHF-7">
+                    <mxGeometry x="60" as="geometry">
+                        <mxPoint x="240" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-9" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IQPC-sSAH7IOpoYLebHF-1">
+                    <mxGeometry y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IQPC-sSAH7IOpoYLebHF-1" source="IQPC-sSAH7IOpoYLebHF-5" target="IQPC-sSAH7IOpoYLebHF-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-11" value="国民が反発" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IQPC-sSAH7IOpoYLebHF-1">
+                    <mxGeometry x="240" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IQPC-sSAH7IOpoYLebHF-1" source="IQPC-sSAH7IOpoYLebHF-3" target="IQPC-sSAH7IOpoYLebHF-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-13" value="国王選定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IQPC-sSAH7IOpoYLebHF-1">
+                    <mxGeometry x="240" y="240" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="IQPC-sSAH7IOpoYLebHF-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IQPC-sSAH7IOpoYLebHF-1" source="IQPC-sSAH7IOpoYLebHF-11" target="IQPC-sSAH7IOpoYLebHF-13">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="300" y="240"/>
+                            <mxPoint x="300" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
